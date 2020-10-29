@@ -10,7 +10,7 @@ echo '
      '
 echo '	      _______________________________________________________________________________
 	      |                                                                             |
-	      |   O pentsuggests foi desenvolvido por @BlackCyber para extritamente       |
+	      |   O pentsuggests foi desenvolvido por @BlackCyber para extritamente         |
 	      |   Auxiliar profissionais de segurança cybernetica durante pentests          |
 	      |   Não nos responsabilizamos por quaisquer ações maliciosas do usuário.      |
 	      \-----------------------------------------------------------------------------/
