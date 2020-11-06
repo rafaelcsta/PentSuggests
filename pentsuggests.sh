@@ -57,13 +57,13 @@ echo '
 		   2 Ter um armazenamento externo aceitável e copiar pastas ou arquivos elementares
 		   3 Montar partições, Inicializar via imagens e assumir o root
 		   4 Modificar configurações de permissões READ WRITE antes da inicialização
-		   5 Plantar backdoor indetectável, ligar durante a inicialização
+		   5 Plantar backdoor indetectável,cfg para ligar durante a inicialização
 		   6 Alcance de sinais de radiofrequência
 		   7 LOCKPICKING
 		   8 Plano de Invasao
 		   9 Será que lixeiras contém informações sensíveis?
 		   10 Existe uma diversidade de hardwares para hacking
-		   HACKRF ONE, RASPBERRY PI, ARDUINO, USB RUBBER DUCKY...
+		   HACKRF ONE(IMSI Catcher), RASPBERRY PI, ARDUINO, USB RUBBER DUCKY...
 
 		Hackear via AFK é um doce, remotamente descobrem-se mais memes do que hackers.
 				    Visite um CTF e seja você o meme da rodada.
@@ -116,7 +116,7 @@ echo '
 				         Ferramentas Sugeridas:
 
 			     wafw00f, hping3, fping, SinFP, xprobe2, AutoScan,
-			     dnsenum, scanline, superscan, amap, host, dig.
+			     dnsenum, scanline, superscan, amap, nmap, host, dig.
 
 	    Pessoas que criam suas próprias ferramentas, tendem a dominar o mundo! E também preservam
 	   a integridade de seus sistemas, isto inclui preservar o sistema nervoso, pois scriptkiddies
@@ -146,7 +146,9 @@ echo '
 					   Ferramentas Sugeridas:
 
 		 	awesome-osint, wappanalyzer, extenções de NAVEGADOR e sites, dirb
-				   wget mirror, robots.txt e sitemap.xml
+		 wget mirror, robots.txt e sitemap.xml, transparencyreport.google.com, crt.sh (%search)
+		Foca, Exiftool, PhoneInfoGa, Sherlock, dorks nome+cpf, nome+telefone, mbi superbina.exe
+	dnsdumpster.com, virustotal.com, securitytrails.com, cencys.io, shodan.io e sua api bem como wpscan e api
 
 			 Esta etapa é aconselhavel fazer manualmente e ser bem detalhista
 			     	      focar em usar recursos online.
@@ -166,12 +168,12 @@ echo '
 		 2 Interceptação de trafego, Wireless, Leaks, Scaners de Vuln Automatizados
 		 3 Usar com inteligencia Nessus, Acunetix, Openvas, nikto, NMAP NSE,
 		 4 Sites de buscas por CVEs e Exploits Metasploit Framework
-
+		 5 enum4linux, host, dig
 					   Referências e Fontes:
 
 						  OWASP
 	   nvd.nist.gov, cve.mitre.org, packetstormsecurity.com, Exploit-DB searchsploit, Burp suite,
-		     curl, wiresharke, Sqlmap, xsstrake, isc.sans.edu, sei.cmu.edu(cert.org),
+	   securityfocus.com,curl, wiresharke, Sqlmap, xsstrake, isc.sans.edu, sei.cmu.edu(cert.org)
 	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
 		   	  e os arquivos de Snowden, bem como o wikileaks + dorks.
 
@@ -201,6 +203,7 @@ echo '
 
 	       	      airsnaf, dnsniff, cain and abel, phoss, SIPcrack, medusa, dmitry
 	      	   Hydra, Scripts, Phishing, Paginas fake, procmom, gdb e immunity debugger
+		unit-conversions e conversores, tabela ascii, rapidtables.com e msfconsole
 
 	     Hackers são pessoas que vivem no mundo invertido, escovando bits em little-endian!
 '
@@ -218,10 +221,12 @@ echo '
 		     3 Personificar para obter
 		     4 NDN-Non Delivery Notify
 		     5 Phishing, Vishing, Washing
+		     6 Trojans, Fake News.
 
 					  Ferramentas Sugeridas:
 
-				 URLCRAZY, PHP, Shellphish, weeman, Gophish
+			URLCRAZY, PHP, Shellphish, weeman, Gophish, Pyinstaller, webshells
+						emkei.cz (guia anonima)
 
 		          Clonamos mac e ip, mas seria possível clonar uma pessoa?
 			 OBS: Não use essa técnica por default, verifique o contrato.
@@ -237,11 +242,11 @@ echo '
 
 		1 Canivetes suiços(netcat, ncat, sockat)
 		2 Crackmapexec, responder, smbclient, rcrack, lOphtrack, Ophcrack
-		3 John, hashcat, Shells, webshell php, psexec, rpcclient
+		3 John, hashcat, hashid, hash-identifier, findmyhash e hashkiller.uk.io, Shells, webshell php, psexec, rpcclient
 		4 Impacket-secretsdump, mimikatz, kiwi, hashdump (arquivos a obter NTDS.dit, SAM, SYSTEM)
 		5 Passthehash, Exploits Conhecidos CVEs, Zero-Days(Criação de Exploits)
 		6 Analise de Softwares em labs, procmom, Buffer Overflow
-		7 Metasploit e Msfvenom, linpeas.sh e winpeas
+		7 Metasploit e Msfvenom, linpeas.sh e winpeas.sh
 		8 Entender Firewall, IPS e IDS ByPass e Ofuscação.
 		https://www.coursera.org/lecture/detecting-cyber-attacks/snort-xE8ns
 
