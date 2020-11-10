@@ -4,9 +4,10 @@ echo '
 		 ____               _    ____                                   _
 		|  _ \  ___  _ __  | |_ / ___|  _   _   __ _   __ _   ___  ___ | |_  ___
 		| |_) |/ _ \|  _ \ | __|\___ \ | | | | / _  | / _  | / _ \/ __|| __|/ __|
-		|  __/|  __/| | | || |_  ___) || |_| || (_| || (_| ||  __/\__ \| |_ \__ \
+		|  __/(  __/| | | || |_  ___) || |_| || (_| || (_| ||  __/\__ \| |_ \__ \
 		|_|    \___||_| |_| \__||____/  \__,_| \__, | \__, | \___||___/ \__||___/
 	  	  Version1.1                           |___/  |___/Author @BlackCyber21
+				      https://github.com/BlackCyber21/
      '
 echo '	      _______________________________________________________________________________
 	      |                                                                             |
@@ -136,12 +137,17 @@ echo '
 		  2 Google Maps Visao Satelite, SIGINT
 		  3 Comportamento de Colaboradores, You need help in Fórums?
 		  4 Coleta de Emails, Identificações Padrões, Registros de Empresa, Usuários e Senhas DF.
-		  5 Pastebin, Trello, web.archive.org, OSINT, GHDB para dados de pessoas
-		  6 METADADOS, BING ip, Mapear pessoas do TI, tem Github?
+		  5 Pastebin, Trello, web.archive.org, OSINT, GHDB e Parsing para dados de pessoais
+		  6 METADATAS, BING ip, Mapear pessoas do TI, tem Github?
 		  7 Sites de pesquisa passiva, coleta via certificados digitais HTTPS, Mirror, Robots, Dirb
 		  8 [Entender o negócio do cliente, Considerar Importância vs Impacto]
-		  9 HTTP erros, Mapear PÁGINAS, permissões..
+		  9 HTTP erros, Mapear PÁGINAS, permissões
 		  10 Code Review (SEMPRE LEIA O CÓDIGO FONTE) Em busca de Programação insegura
+		  11 Ataques com Voip para fins de coleta de info.
+		  12 IMSI Catcher - Coleta de info via sinais:
+		  https://www.cellmapper.net/arfcn?lang=pt
+		  https://unwiredlabs.com/dashboard
+		  https://opencellid.org/downloads.php?token=
 
 					   Ferramentas Sugeridas:
 
