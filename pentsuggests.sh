@@ -152,7 +152,7 @@ echo '
 					   Ferramentas Sugeridas:
 
 		 	awesome-osint, wappanalyzer, extenções de NAVEGADOR e sites, dirb
-		 wget mirror, robots.txt e sitemap.xml, transparencyreport.google.com, crt.sh (%search)
+		 wget mirror, robots.txt e sitemap.xml, https://transparencyreport.google.com/https/certificates, crt.sh (%search)
 		Foca, Exiftool, PhoneInfoGa, Sherlock, dorks nome+cpf, nome+telefone, mbi superbina.exe
 	dnsdumpster.com, virustotal.com, securitytrails.com, cencys.io, shodan.io e sua api bem como wpscan e api
 
