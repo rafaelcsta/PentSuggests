@@ -13,7 +13,8 @@ echo '	      ___________________________________________________________________
 	      |                                                                             |
 	      |   O pentsuggests foi desenvolvido por @BlackCyber para extritamente         |
 	      |   Auxiliar profissionais de segurança cybernetica durante pentests          |
-	      |   Não nos responsabilizamos por quaisquer ações maliciosas do usuário.      |
+	      |   Não nos responsabilizamos por quaisquer ações maliciosas do usuário.
+	      |       #As notas descritivas servem apenas para ilustrar fatos
 	      \-----------------------------------------------------------------------------/
 
      '
@@ -67,7 +68,7 @@ echo '
 		   HACKRF ONE(IMSI Catcher), RASPBERRY PI, ARDUINO, USB RUBBER DUCKY...
 
 		Hackear via AFK é um doce, remotamente descobrem-se mais memes do que hackers.
-				    Visite um CTF e seja você o meme da rodada.
+				Jogue um CTF e seja você o meme da rodada.
 '
 
 elif [ "$1" == "FASE1" ]
@@ -94,7 +95,8 @@ echo '
                              UseNET, Edgar, Gooscan, FingerGoogle, nslookup ls -d,
                      	       Sam Spade, dnsmap, DNSpredict, fierce.pl, Maltego.
 
-			     Construir scripts te faz economizar tempo, acredite!
+		      Construir scripts te faz economizar tempo, por isso empresas automatizam suas rotinas!
+			     	   	  Resta saber se isso é feito de forma segura...
 '
 elif [ "$1" == "FASE2" ]
 then
@@ -157,7 +159,7 @@ echo '
 	dnsdumpster.com, virustotal.com, securitytrails.com, cencys.io, shodan.io e sua api bem como wpscan e api
 
 			 Esta etapa é aconselhavel fazer manualmente e ser bem detalhista
-			     	      focar em usar recursos online.
+			 focar em usar recursos online. Não descarte Dumpster diving.
 
 			              Use também OSINT, SIGINT e HUMINT!
 '
@@ -188,7 +190,7 @@ echo '
 		  Scripts Próprios, searchsploit, DumpSec, PSTools, Showmount, SMB-NAT, nmbscan,
 				rpcinfo, amap, nmap, Cisco Torch, smnpenum
 
-			       Indormações são ouro no século XXI acredite!
+			       Informações são ouro no século XXI acredite!
 '
 elif [ "$1" == "FASE5" ]
 then
@@ -235,7 +237,8 @@ echo '
 						emkei.cz (guia anonima)
 
 		          Clonamos mac e ip, mas seria possível clonar uma pessoa?
-			 OBS: Não use essa técnica por default, verifique o contrato.
+			 OBS: Não use essa técnica por default.
+			 Releia o contrato que firmou com seu cliente, estelionato virtual é crime!
 '
 elif [ "$1" == "FASE7" ]
 then
@@ -290,7 +293,7 @@ echo '
 
                            logclean-ng, wtmpclean, rootkits, straming de arquivos
 
-	         Releia o contrato que firmou com seu cliente, violação de dados é crime!
+	         Releia o contrato que firmou com seu cliente, invasão de dispositivos é crime!
 '
 
 elif [ "$1" == "FASE10" ]
@@ -307,7 +310,7 @@ echo '
 	    3 Chaves de registro, ncat, remote.exe, vnc, rdp, xfreerdp, keyloggers,
 	    4 Fpnwclnt.dll, login, versões de ssh com patch.
 
-	 Releia o contrato que firmou com seu cliente, Espionagem industrial sem consentimento é crime!
+	 Releia o contrato que firmou com seu cliente, espionagem industrial sem consentimento é crime!
 '
 elif [ "$1" == "FASE11" ]
 then
@@ -338,7 +341,7 @@ echo '
                         ihavebeenpwned.com | pwndb2am4tzkvold.onion | tor e karma.py
 
 
-	           Tenha muito cuidado ao navegar na internet, ou seus dados podem ser roubados!
+	           Tenha muito cuidado ao navegar nas redes, pois seu trafego pode ser interceptado!
 '
 elif [ "$1" == "FASE13" ]
 then
@@ -358,6 +361,7 @@ echo '
 				   9 Hackers Expostos 7
 				   10 Gray Hat Hacking
 				   11 CEH V9
+				   12 Pentest em Aplicações Web
 
                              TOOLS PARA LABS:
 
@@ -367,7 +371,7 @@ echo '
 				   4 OWASPbwp
 				   5 Juice Shop
 				   6 PentesterLabs
-				   7 Servers
+				   7 Servers (Owasp, HackTheBox, OverTheWire, PentesterLab, 100security)
 				   8 ISOs WindowsXp ao 10, Server2003 ao 2019...
 				   9 ISOs Linux kali.org
 
