@@ -1,5 +1,6 @@
 # PentSuggests
 PentSuggests é um projeto voltado a profissionais de S.I iniciantes que visam fixar melhor seus conhecimentos obtidos recentemente.
+https://github.com/BlackCyber21/PoCDeCve/blob/main/listaOrganizada.txt
 
 		 ____               _    ____                                   _
 		|  _ \  ___  _ __  | |_ / ___|  _   _   __ _   __ _   ___  ___ | |_  ___
