@@ -120,7 +120,8 @@ echo '
 
 			     wafw00f, hping3, fping, SinFP, xprobe2, AutoScan,
 			     dnsenum, scanline, superscan, amap, nmap, host, dig.
-			     whatweb, gobuster, dirb.
+			     whatweb, gobuster, dirb, robots.txt e sitemap.xml,
+			     web.archive.org
 
 	    Pessoas que criam suas próprias ferramentas, tendem a dominar o mundo! E também preservam
 	   a integridade de seus sistemas, isto inclui preservar o sistema nervoso, pois scriptkiddies
