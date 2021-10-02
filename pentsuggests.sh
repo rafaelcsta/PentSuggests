@@ -113,7 +113,7 @@ echo '
 			4 TransferZone, RDAP, Protocolos aceitos
 			5 Deteccao de Mecanismos de Defesa, Hostnames, Banner Grabing
 			6 Pesquisa por ip, Nmap nse scripts + ByPass IPS/IDS
-			7 Wireshark e Burp, Shodan.io, Censys.io
+			7 Wireshark e Burpsuite Spider|Intruder|Repeater, Shodan.io, Censys.io
 			8 Traceroute, Evasao de Defesas
 
 				         Ferramentas Sugeridas:
