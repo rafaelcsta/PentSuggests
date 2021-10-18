@@ -192,6 +192,7 @@ echo '
 
 		  Scripts Próprios, searchsploit, DumpSec, PSTools, Showmount, SMB-NAT, nmbscan,
 				rpcinfo, amap, nmap, Cisco Torch, smnpenum
+		https://github.com/rafaelcsta/CEH-v11-Study-Guide | https://github.com/rafaelcsta/Guide-CEH-Practical-Master
 
 			       Informações são ouro no século XXI acredite!
 '
