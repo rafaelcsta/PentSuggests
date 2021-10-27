@@ -11,7 +11,7 @@ https://github.com/BlackCyber21/PoCDeCve/blob/main/listaOrganizada.txt
      
 	      _______________________________________________________________________________
 	      |                                                                             |
-	      |   O pentsuggests foi desenvolvido por @BlackCyber para extritamente         |
+	      |   O pentsuggests foi desenvolvido por @BlackCyber para estritamente         |
 	      |   Auxiliar profissionais de segurança cybernetica durante pentests          |
 	      |   Não nos responsabilizamos por quaisquer ações maliciosas do usuário.      |
 	      \-----------------------------------------------------------------------------/
