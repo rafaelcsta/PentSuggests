@@ -158,7 +158,7 @@ echo '
 
 		 	awesome-osint, wappanalyzer, extenções de NAVEGADOR e sites, dirb
 		 wget mirror, robots.txt e sitemap.xml, https://transparencyreport.google.com/https/certificates, crt.sh (%search)
-		Foca, Exiftool, PhoneInfoGa, Sherlock, dorks nome+cpf, nome+telefone, mbi superbina.exe
+		Foca, Exiftool, PhoneInfoGa, Sherlock, dorks nome+cpf, nome+telefone, mbi superbina.exe, https://urlscan.io/
 	dnsdumpster.com, virustotal.com, securitytrails.com, cencys.io, shodan.io e sua api bem como wpscan e api
 
 			 Esta etapa é aconselhavel fazer manualmente e ser bem detalhista
