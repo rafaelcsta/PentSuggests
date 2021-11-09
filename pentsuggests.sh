@@ -123,6 +123,8 @@ echo '
 			     whatweb, gobuster, dirb, robots.txt e sitemap.xml,
 			     web.archive.org, view-source:url, html-tool tomnomnom
 			     identificação de entrypoints, GetJs, exiftool, wfuzz
+			     
+			     	     https://www.kali.org/tools/wfuzz/
 	    	           https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
 	    https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/burp-parameter-names.txt
 	    
