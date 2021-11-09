@@ -123,6 +123,7 @@ echo '
 			     whatweb, gobuster, dirb, robots.txt e sitemap.xml,
 			     web.archive.org, view-source:url, html-tool tomnomnom
 			     identificação de entrypoints, GetJs, exiftool, wfuzz
+	    https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/burp-parameter-names.txt
 
 	    Pessoas que criam suas próprias ferramentas, tendem a dominar o mundo! E também preservam
 	   a integridade de seus sistemas, isto inclui preservar o sistema nervoso, pois scriptkiddies
