@@ -182,7 +182,7 @@ echo '
 
 		 1 Testes em serviços e portas ftp, netbios, smb, smnp, smtp, rpc, nfs... ssh
 		 2 Interceptação de trafego, Wireless, Leaks, Scaners de Vuln Automatizados
-		 3 Usar com inteligencia Nessus, Acunetix, Openvas, nikto, NMAP NSE,
+		 3 Usar com inteligencia #Nessus, Acunetix, Openvas, nikto, NMAP NSE,
 		 4 Sites de buscas por CVEs e Exploits Metasploit Framework
 		 5 enum4linux, host, dig
 					   Referências e Fontes:
@@ -192,6 +192,9 @@ echo '
 	   securityfocus.com,curl, wiresharke, Sqlmap, xsstrake, isc.sans.edu, sei.cmu.edu(cert.org)
 	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
 		   	  e os arquivos de Snowden, bem como o wikileaks + dorks.
+	 	         
+		https://medium.com/swlh/intro-to-metasploit-19e3d07ff725 ex:(msfconsole search "ms17")
+	 
 
 					  Ferramentas Sugeridas:
 
