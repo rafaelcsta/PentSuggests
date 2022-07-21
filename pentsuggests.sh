@@ -163,7 +163,7 @@ echo '
 
 		 	 awesome-osint, wappanalyzer, extenções de NAVEGADOR e sites, dirb
 		 wget mirror, robots.txt e sitemap.xml, https://transparencyreport.google.com/https/certificates, crt.sh (%search), 
-                                    https://www.sslshopper.com/, https://www.ssllabs.com/
+                 https://www.sslshopper.com/ssl-checker.html?hostname=, https://www.ssllabs.com/ssltest/analyze.html?d=
      Foca, Exiftool, PhoneInfoGa, Sherlock, dorks nome+cpf, nome+telefone, mbi superbina.exe, https://urlscan.io/
 	     dnsdumpster.com, virustotal.com, securitytrails.com, cencys.io, shodan.io e sua api bem como wpscan e api
 
