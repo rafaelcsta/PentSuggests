@@ -385,7 +385,7 @@ echo '
 				   4 OWASPbwp
 				   5 Juice Shop
 				   6 PentesterLabs
-				   7 Servers (Owasp, HackTheBox, OverTheWire, PentesterLab, 100security)
+				   7 Servidores de CTFs (Owasp, HackTheBox, OverTheWire, PentesterLab, 100security, vulnhub.com)
 				   8 ISOs WindowsXp ao 10, Server2003 ao 2019...
 				   9 ISOs Linux kali.org
 
