@@ -273,7 +273,7 @@ echo '
 		8 Entender Firewall, IPS e IDS ByPass e Ofuscação.
 		https://www.coursera.org/lecture/detecting-cyber-attacks/snort-xE8ns
 
-						Cli disables: windows-commandline.com
+				Cli disables: windows-commandline.com, https://www.linuxkernelcves.com/
 
 		netsh advfirewall set currentprofile state off & netsh advfirewall set privateprofile state off & 
 				netsh advfirewall set publicprofile state off
