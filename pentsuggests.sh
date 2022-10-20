@@ -6,8 +6,8 @@ echo '
 		| |_) |/ _ \|  _ \ | __|\___ \ | | | | / _  | / _  | / _ \/ __|| __|/ __|
 		|  __/(  __/| | | || |_  ___) || |_| || (_| || (_| ||  __/\__ \| |_ \__ \
 		|_|    \___||_| |_| \__||____/  \__,_| \__, | \__, | \___||___/ \__||___/
-	  	  Version1.1                           |___/  |___/Author @BlackCyber21
-				      https://github.com/BlackCyber21/
+	  	  Version1.1                           |___/  |___/Author @rafaelcsta
+				      https://github.com/rafaelcsta/
      '
 echo '	      _______________________________________________________________________________
 	      |                                                                             |
@@ -65,7 +65,8 @@ echo '
 		   8 Plano de Invasao
 		   9 Será que lixeiras contém informações sensíveis?
 		   10 Existe uma diversidade de hardwares para hacking
-		   HACKRF ONE(IMSI Catcher), RASPBERRY PI, ARDUINO, USB RUBBER DUCKY...
+		   HACKRF ONE(IMSI Catcher), RASPBERRY PI, ARDUINO
+		   USB RUBBER DUCKY, Attiny85, Flipper Zero...
 
 		Hackear via AFK é um doce, remotamente descobrem-se mais memes do que hackers.
 				Jogue um CTF e seja você o meme da rodada.
@@ -88,7 +89,7 @@ echo '
 				6 Obtenção de Imagens de Infraestruturas Físicas
                         	7 Mapeamento do quadro de Funcionários
 				8 Coleta de infos sensíveis por vagas de emprego
-				9 Pesquisas por informações de contato (numeros emails)
+				9 Pesquisas por informações de contato (números e emails)
 
                                            Ferramentas Sugeridas:
 
@@ -109,7 +110,7 @@ echo '
 
 			1 IANA, Whois, Reconhecimento de infra BGP
 			2 Dominios, Subdominios, Ranges de ASN, NETBLOC e IP
-			3 Scanner, Parsing, Registros e Records do domínio
+			3 Scanner, Parsing, WebScraping, Registros e Records do domínio
 			4 TransferZone, RDAP, Protocolos aceitos
 			5 Deteccao de Mecanismos de Defesa, Hostnames, Banner Grabing
 			6 Pesquisa por ip, Nmap nse scripts + ByPass IPS/IDS
@@ -145,10 +146,10 @@ echo '
 
 		  1 Hunter.io, Vagas de Emprego(Tecnologias), Linkedin Face Publicacoes de funcionarios,
 		  2 Google Maps Visao Satelite, SIGINT
-		  3 Comportamento de Colaboradores, You need help in Fórums?
+		  3 Comportamento de Colaboradores, You need help in Forums?
 		  4 Coleta de Emails, Identificações Padrões, Registros de Empresa, Usuários e Senhas DF.
 		  5 Pastebin, Trello, web.archive.org, OSINT, GHDB e Parsing para dados de pessoais
-		  6 METADATAS, BING ip, Mapear pessoas do TI, tem Github?
+		  6 METADATAS de Arquivos, BING ip, Mapear pessoas do TI, tem Github?
 		  7 Sites de pesquisa passiva, coleta via certificados digitais HTTPS, Mirror, Robots, Dirb
 		  8 [Entender o negócio do cliente, Considerar Importância vs Impacto]
 		  9 HTTP erros, Mapear PÁGINAS, permissões
@@ -182,8 +183,8 @@ echo '
                                                 Técnicas:
 
 		 1 Testes em serviços e portas ftp, netbios, smb, smnp, smtp, rpc, nfs... ssh
-		 2 Interceptação de trafego, Wireless, Leaks, Scaners de Vuln Automatizados
-		 3 Usar com inteligencia #Nessus, Acunetix, Openvas, nikto, NMAP NSE,
+		 2 Interceptação de trafego, Wireless, Leaks, Scaners de Vuln Automatizados (Usar VPR)
+		 3 Usar com inteligencia #Nessus, Acunetix, Openvas, nikto, NMAP NSE, Técnicas de OPSEC
 		 4 Sites de buscas por CVEs e Exploits Metasploit Framework
 		 5 enum4linux, host, dig
 					   Referências e Fontes:
@@ -191,7 +192,7 @@ echo '
 						  OWASP
 	   nvd.nist.gov, cve.mitre.org, packetstormsecurity.com, Exploit-DB searchsploit, Burp suite,
 	   securityfocus.com,curl, wiresharke, Sqlmap, xsstrake, isc.sans.edu, sei.cmu.edu(cert.org)
-	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
+	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports OT, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
 		   	  e os arquivos de Snowden, bem como o wikileaks + dorks.
 	 	         
 		https://medium.com/swlh/intro-to-metasploit-19e3d07ff725 ex:(msfconsole search "ms17")
