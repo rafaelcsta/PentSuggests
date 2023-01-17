@@ -171,7 +171,7 @@ echo '
 			 Esta etapa é aconselhavel fazer manualmente e ser bem detalhista
 			 focar em usar recursos online. Não descarte Dumpster diving.
 
-			              Use também OSINT, SIGINT e HUMINT!
+			              Use também OSINT, SIGINT, HUMINT, TEMPEST e OPSEC!
 '
 elif [ "$1" == "FASE4" ]
 then
@@ -192,7 +192,7 @@ echo '
 						  OWASP
 	   nvd.nist.gov, cve.mitre.org, packetstormsecurity.com, Exploit-DB searchsploit, Burp suite,
 	   securityfocus.com,curl, wiresharke, Sqlmap, xsstrake, isc.sans.edu, sei.cmu.edu(cert.org)
-	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports OT, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
+	acscenter.org(ACSC), M.I.T, NSA Cyber Advisories Reports TAO, FBI, IC3, GCHQ, KGB, Cyber Advisory Chinesa
 		   	  e os arquivos de Snowden, bem como o wikileaks + dorks.
 	 	         
 		https://medium.com/swlh/intro-to-metasploit-19e3d07ff725 ex:(msfconsole search "ms17")
@@ -217,7 +217,7 @@ echo '
                                                Técnicas:
 
 		     1 Canivetes Suiços, HASHs e Senhas, Evasao e Bypass de Firewall...
-		     2 Ataques de Força Bruta (Low-Hanging-Fruit), Canvas
+		     2 Ataques de Força Bruta (Low-Hanging-Fruit), Canvas, Pass The Hash
 		     3 Null session, Processos e serviços, Programas instalados.
 		     4 Ter uma vpn facilita muito, todas as fazes.
 		     5 Desenvolvimento de exploit para Stack Buffer Overflow
@@ -226,7 +226,7 @@ echo '
 
 	       	      airsnaf, dnsniff, cain and abel, phoss, SIPcrack, medusa, dmitry
 	      	   Hydra, Scripts, Phishing, Paginas fake, procmom, gdb e immunity debugger
-		unit-conversions e conversores, tabela ascii, rapidtables.com e msfconsole
+		unit-conversions e conversores, tabela ascii, rapidtables.com e msfconsole, foca
 
 	     Hackers são pessoas que vivem no mundo invertido, escovando bits em little-endian!
 '
@@ -244,12 +244,12 @@ echo '
 		     3 Personificar para obter
 		     4 NDN-Non Delivery Notify
 		     5 Phishing, Vishing, Washing
-		     6 Trojans, Fake News.
+		     6 Trojans, Fake News. Get Ip
 
 					  Ferramentas Sugeridas:
 
 			URLCRAZY, PHP, Shellphish, weeman, Gophish, Pyinstaller, webshells
-						emkei.cz (guia anonima)
+			emkei.cz (guia anonima), https://github.com/n0a/telegram-get-remote-ip
 
 		          Clonamos mac e ip, mas seria possível clonar uma pessoa?
 			 OBS: Não use essa técnica por default.
@@ -275,6 +275,7 @@ echo '
 		https://www.coursera.org/lecture/detecting-cyber-attacks/snort-xE8ns
 
 				Cli disables: windows-commandline.com, https://www.linuxkernelcves.com/
+				http://gtfobins.github.io/, routerpwn.com
 
 		netsh advfirewall set currentprofile state off & netsh advfirewall set privateprofile state off & 
 				netsh advfirewall set publicprofile state off
@@ -292,7 +293,7 @@ echo '
 					   Técnicas e Tools:
 
 	   1 Rhost, LSA secrets, metasploit, shell, arquivos do usuario, registro do windows,
-	   2 Detalhes do sistema, carteiras de bitcoin, implantacao de ransomware, mineracao de bitcoin.
+	   2 Detalhes do sistema, carteiras de bitcoin, implantacao de ransomware, mineracao de criptomoedas.
 	   3 Credenciais e documentos, invasao a privacidade pc e mobile
 
 		   Releia o contrato que firmou com seu cliente, violação de dados é crime!
@@ -306,7 +307,7 @@ echo '
 
 				            Técnicas e Tools:
 
-                           logclean-ng, wtmpclean, rootkits, straming de arquivos
+          logclean-ng, wtmpclean, rootkits, straming de arquivos, trocar IP no log, ou apagar manualmente
 
 	         Releia o contrato que firmou com seu cliente, invasão de dispositivos é crime!
 '
@@ -323,14 +324,14 @@ echo '
             1 Root e Administrator ou administradores. Criar conta de usuario
 	    2 Msfvenom, veil evasion, PYTHON, C, Assembly, PHP, cron, AT, arquivos .rc, pasta do boot,
 	    3 Chaves de registro, ncat, remote.exe, vnc, rdp, xfreerdp, keyloggers,
-	    4 Fpnwclnt.dll, login, versões de ssh com patch.
+	    4 Fpnwclnt.dll, login, versões de ssh com patch, crontab -e, -l, scriptv3.sh, persistence adv modules
 
 	 Releia o contrato que firmou com seu cliente, espionagem industrial sem consentimento é crime!
 '
 elif [ "$1" == "FASE11" ]
 then
 echo '
-				   	>>>DoS, BOTNETS E DDoS<<<
+				   	>>>DoS, BOTNETS, DDoS e RANSOMWARES<<<
 
 		             Descrição e tools para fase NEGAÇÃO DE SERVIÇO
 
@@ -340,6 +341,7 @@ echo '
 			   	2 bonk, newtear, supernuke.exe
 			   	3 trincoo/TFN/stacheldraht, Slowrys
 			   	5 BOTNETS (Zeus, Ares, Ufonet...)
+				6 WannaCry,fazer backup e deletar dados remotamente...
 
        	     Releia o contrato que firmou com seu cliente, pois comprometer sem autorização prévia
 		a disponibilidade, integridade ou confidencialidade caracteriza crime cybernético!
