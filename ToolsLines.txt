@@ -10,11 +10,11 @@ url sempre entre aspas duplas ""
 
 FUZZ (Onde entra parametros e payloads, tem funcionamento identico a um for sendo FUZZ equivalente a variavel $i)
 
-wfuzz -c -z file,xss-payload-list.txt --sc 200 "https://ads.tiktok.com/marketing_api/docs?rid=FUZZ"
+wfuzz -c -z file,xss-payload-list.txt --sc 200 "https://xxxxxx/marketing_api/docs?rid=FUZZ"
 
 Ao acrescentar um segundo -z eh possivel passar payloads em mais de um campo 
 
-wfuzz -c -z file,burp-parameter-names.txt -z file,xss-payload-list.txt --sc 301,200 "https://www.tiktok.com/?FUZZ=FUZ2Z"
+wfuzz -c -z file,burp-parameter-names.txt -z file,xss-payload-list.txt --sc 301,200 "https://xxxxxxxx/?FUZZ=FUZ2Z"
 
 Wfuzz tem muitas outras funcionalidades, pode fazer ataque de forca bruta em campos de user password...
 
