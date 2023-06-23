@@ -6,12 +6,12 @@ echo '
 		| |_) |/ _ \|  _ \ | __|\___ \ | | | | / _  | / _  | / _ \/ __|| __|/ __|
 		|  __/(  __/| | | || |_  ___) || |_| || (_| || (_| ||  __/\__ \| |_ \__ \
 		|_|    \___||_| |_| \__||____/  \__,_| \__, | \__, | \___||___/ \__||___/
-	  	  Version1.1                           |___/  |___/Author @BlackCyber
-				      https://github.com/BlackCyber/
+	  	  Version1.1                           |___/  |___/Author @8I4cK
+				      https://github.com/8I4cK/
      '
 echo '	      _______________________________________________________________________________
 	      |                                                                             |
-	      |   O pentsuggests foi desenvolvido por @BlackCyber para extritamente         |
+	      |   O pentsuggests foi desenvolvido por @8I4cK para extritamente         |
 	      |   Auxiliar profissionais de segurança cybernetica durante pentests          |
 	      |   Não nos responsabilizamos por quaisquer ações maliciosas do usuário.
 	      |       #As notas descritivas servem apenas para ilustrar fatos
