@@ -67,6 +67,7 @@ echo '
 		   10 Existe uma diversidade de hardwares para hacking
 		   HACKRF ONE(IMSI Catcher), RASPBERRY PI, ARDUINO
 		   USB RUBBER DUCKY, Attiny85, Flipper Zero...
+     		   11 Biohacking Tags e Chips RFIDs intracultaneos.
 
 		Hackear via AFK é um doce, remotamente descobrem-se mais memes do que hackers.
 				Jogue um CTF e seja você o meme da rodada.
