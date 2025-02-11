@@ -392,6 +392,8 @@ echo '
 				   7 Servidores de CTFs (Owasp, HackTheBox, OverTheWire, PentesterLab, 100security, vulnhub.com)
 				   8 ISOs WindowsXp ao 10, Server2003 ao 2019...
 				   9 ISOs Linux kali.org
+							10 TryHackMy
+							11 MPF, PF, Aparato Legislativo, Termos tecnico/juridicos
 
 	         	   Nunca deixe de estudar, praticar é essencial para evoluir!
 '
